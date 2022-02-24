@@ -1,0 +1,1 @@
+db.Edutech.find()
